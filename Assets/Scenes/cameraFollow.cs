@@ -50,7 +50,7 @@ public class cameraFollow : MonoBehaviour
         GUIStyle style = new GUIStyle(GUI.skin.box);
         style.fontSize = 40;
 
-        if (parkArea.first == true && parkArea2.second == true){
+        if (parkArea.first && parkArea2.second){
             GUI.Box (new Rect (0,0,200,50), "Success!", style);
         } else {
             GUI.Box (new Rect (0,0,200,50), "Fail", style);

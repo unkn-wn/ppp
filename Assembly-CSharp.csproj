@@ -49,9 +49,11 @@
      <None Include="Assets\RCK 2.3\Shaders\ReflectionBlurFresnel.shader" />
      <None Include="Assets\RCK 2.3\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\RCK 2.3\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+     <None Include="Assets\SimpleLowPolyNature\Readme.txt" />
      <None Include="Assets\RCK 2.3\Shaders\TransparentRef.shader" />
      <None Include="Assets\RCK 2.3\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
      <None Include="Assets\RCK 2.3\Skidmarks\Skidmarks Essentials\Skidmarks.shader" />
+     <None Include="Assets\SimpleLowPolyNature\Shaders\SimpleWater.shader" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

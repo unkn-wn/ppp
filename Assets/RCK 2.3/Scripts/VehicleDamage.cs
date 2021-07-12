@@ -40,6 +40,7 @@ public class VehicleDamage : MonoBehaviour
     {
 
         if (collision.gameObject.CompareTag("car")){
+            print("collided");
             cameraFollow.temp = true;
         } 
 
